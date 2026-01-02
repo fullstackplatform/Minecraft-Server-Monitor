@@ -42,7 +42,7 @@ You will need to have [Node.js](https://nodejs.org/) (version 18 or later) and n
 2.  **Navigate to the project directory**:
     ```sh
     cd minecraft-server-monitor
-    apt install unzip && unzip inecraft-server-monitor.zip
+    apt install unzip && unzip mc-server-monitor.zip
     ```
 
 3.  **Install dependencies**:

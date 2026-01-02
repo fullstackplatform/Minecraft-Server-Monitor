@@ -30,12 +30,12 @@ You will need to have [Node.js](https://nodejs.org/) (version 18 or later) and n
 
 1.  **Clone the repository** (or download the project files):
     ```sh
-    git clone https://github.com/your-username/minecraft-monitor.git
+    git clone https://github.com/fullstackplatform/minecraft-server-monitor.git
     ```
 
 2.  **Navigate to the project directory**:
     ```sh
-    cd minecraft-monitor
+    cd minecraft-server-monitor
     ```
 
 3.  **Install dependencies**:
